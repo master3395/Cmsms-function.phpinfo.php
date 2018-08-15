@@ -25,3 +25,4 @@ This plugin checks the site, for its php info, on the server.
 //								                                                    	      //
 ////////////////////////////////////////////////////////////////////////////////
 
+https://newstargeted.com/uploads/file/69/1007/function.phpinfo.php
