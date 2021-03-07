@@ -10,7 +10,7 @@ This plugin checks the site, for its php info, on the server.
 // Website: https://www.newstargeted.com				                              //
 // CMS - CMS Made Simple						                                          //
 // (c)2004 by Ted Kulp (wishy@users.sf.net)				                            //
-// This project's homepage is: http://www.cmsmadesimple.org		                //
+// This project's homepage is: https://www.cmsmadesimple.org		              //
 // This program is free software; you can redistribute it and/or modify       //
 // it under the terms of the GNU General Public License as published by       //
 // the Free Software Foundation; either version 2 of the License, or	        //
@@ -25,4 +25,4 @@ This plugin checks the site, for its php info, on the server.
 //								                                                    	      //
 ////////////////////////////////////////////////////////////////////////////////
 
-https://newstargeted.com/uploads/file/69/1007/function.phpinfo.php
+https://newstargeted.com/uploads/1007/function.phpinfo.zip
