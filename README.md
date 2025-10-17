@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4--8.6-purple.svg)
 ![CMSMS](https://img.shields.io/badge/CMSMS-Compatible-orange.svg)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/KimBS?locale.x=en_US&country.x=NO)
 
 **A secure, administrator-only plugin for displaying comprehensive PHP configuration information in CMS Made Simple.**
 
@@ -190,6 +191,18 @@ Contributions, issues, and feature requests are welcome!
 - **CMSMS Forge Profile:** [master3395](https://dev.cmsmadesimple.org/projects/php_info_plugin)
 
 Feel free to reach out with questions, suggestions, or issues!
+
+---
+
+## 💖 Support the Project
+
+If you find this plugin useful and would like to support its development, consider making a donation!
+
+<div align="center">
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KimBS?locale.x=en_US&country.x=NO)
+
+</div>
 
 ---
 
