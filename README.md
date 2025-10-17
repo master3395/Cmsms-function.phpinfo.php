@@ -51,7 +51,7 @@ You can download the plugin from either:
 2. **Upload to CMSMS**
 
    - Navigate to your CMSMS installation directory
-   - Upload the file to: `plugins/`
+   - Upload the file to: `assets/plugins/`
    - Ensure proper file permissions (typically 644)
 3. **Verify Installation**
 
